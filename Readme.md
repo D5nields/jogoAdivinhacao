@@ -1,13 +1,13 @@
 # Jogo da Adivinhação - Árvore Binária de Decisão
 
-## 🎯 Para que Serve?
+## Para que Serve?
 Este projeto é uma aplicação de console desenvolvida em C# que serve para demonstrar, de forma prática e didática, o funcionamento de uma Estrutura de Dados não-linear: a Árvore Binária de Decisão. 
 
 O programa simula um jogo de adivinhação onde o computador tenta adivinhar o animal em que o usuário está pensando. O grande diferencial científico deste projeto é a sua capacidade de aprendizado dinâmico: caso o computador erre o palpite, ele solicita novas informações ao usuário e expande a árvore lógica na memória em tempo real, tornando-se mais inteligente a cada rodada.
 
 ---
 
-## 🧠 Como Funciona?
+## Como Funciona?
 
 O jogo utiliza o conceito estrutural de Árvore Binária para segmentar o conhecimento e tomar decisões:
 
@@ -24,7 +24,7 @@ Para tornar a busca mais eficiente, a estrutura inicial da árvore divide os ani
 
 ---
 
-## 📈 O Algoritmo de Aprendizado Dinâmico
+## O Algoritmo de Aprendizado Dinâmico
 
 Quando o usuário pensa em um animal que o computador ainda não conhece, o sistema executa os seguintes passos:
 1. **Busca:** O programa percorre a árvore até chegar a um nó folha (um palpite).
@@ -34,7 +34,7 @@ Quando o usuário pensa em um animal que o computador ainda não conhece, o sist
 
 ---
 
-## 🚀 Como Executar o Programa pelo Terminal
+## Como Executar o Programa pelo Terminal
 
 Toda a lógica e estrutura do jogo foram unificadas em um único arquivo (`Program.cs`) para simplificar a execução. 
 
