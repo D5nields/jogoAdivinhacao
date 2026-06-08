@@ -11,7 +11,7 @@ namespace JogoAdivinhacao
             bool keepPlaying = true;
 
             Console.WriteLine("=============================================");
-            Console.WriteLine("      🌟 JOGO DA ADIVINHAÇÃO (ÁRVORE) 🌟     ");
+            Console.WriteLine("      🌟 OraculOS (ÁRVORE) 🌟     ");
             Console.WriteLine("=============================================");
             Console.WriteLine("Pense em um animal e responda às perguntas.\n");
 
